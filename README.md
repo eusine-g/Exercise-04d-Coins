@@ -4,10 +4,10 @@ Context and date
 Description
 
 ## Implementation
-Multiple Levels
-Win Screen
-Collectible Coins
-3 Enemy types
+Multiple Levels,
+Win Screen,
+Collectible Coins,
+3 Enemy types,
 
 
 ## References
