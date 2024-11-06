@@ -1,17 +1,19 @@
-# Exercise-04c-Enemies
+# Project 04
+Context and date
+11/6/2024
+Description
 
 ## Implementation
+Multiple Levels
+Win Screen
+Collectible Coins
+3 Enemy types
+
 
 ## References
 
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
-
 ## Future Development
+None
 
 ## Created by
 Ethan Goldblatt
